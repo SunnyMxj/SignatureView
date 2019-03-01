@@ -1,2 +1,2 @@
 # SignatureView
-a view can provide signature service
+![](https://github.com/SunnyMxj/SignatureView/blob/master/signature.gif)
